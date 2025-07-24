@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="LINK_DA_SUA_IMAGEM" alt="Tech Image" width="100" />
+  <img src="https://raw.githubusercontent.com/RoniJrr/RoniJrr/refs/heads/main/images/AB420160-4B98-492E-BCF2-46B7021DAFE4.png" alt="Tech Image" width="100" />
 </p>
 
 <h1 align="center">Olá, Desenvolvedores! 👋</h1>
