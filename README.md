@@ -53,7 +53,7 @@ Sou apaixonado por tecnologia e **entusiasta em análise de dados**, sempre em b
 
 ## 📫 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/ronivaldo-junior875181228" target="_blank">
+  <a href="https://www.linkedin.com/in/ronivaldo-junior-875181228" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:junioralvesss767@gmail.com">
