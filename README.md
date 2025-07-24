@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RoniJrr/RoniJrr/refs/heads/main/images/D380C389-81C7-46C4-940E-24C3013D7B49.png)" alt="Banner Roni Jrr" width="100%">
+  <img src="https://raw.githubusercontent.com/RoniJrr/RoniJrr/refs/heads/main/images/D380C389-81C7-46C4-940E-24C3013D7B49.png" alt="Banner Roni Jrr" width="100%">
 </p>
 
 <h1 align="center">Olá, Desenvolvedores! 👋</h1>
