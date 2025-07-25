@@ -1,7 +1,7 @@
 <h1 align="center">Olá, Desenvolvedores! 👋</h1>
 <p align="center">🚀 Minha jornada como desenvolvedor está só começando!</p>
 
----
+___________
 
 ## 👨‍💻 Sobre mim
 Sou apaixonado por tecnologia e **entusiasta em análise de dados**, sempre em busca de criar soluções inteligentes e visuais atrativos.  
@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e **entusiasta em análise de dados**, sempre em b
 - 📚 Estudando **Python, Django, JavaScript, React e Power BI**  
 - 🎯 Objetivo: **Transformar dados em insights e experiências digitais impactantes**  
 
----
+___________
 
 ## 🚀 Tecnologias e Ferramentas
 <p align="center">
@@ -36,23 +36,17 @@ Sou apaixonado por tecnologia e **entusiasta em análise de dados**, sempre em b
   <img src="https://img.shields.io/badge/VS%20Code-1976D2?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
+___________
+### 🐍 Minha contribuição
+  
+![Snake animation](https://raw.githubusercontent.com/RoniJrr/RoniJrr/main/.github/snake/snake.svg)
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=RoniJrr&show_icons=true&theme=blueberry"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniJrr&layout=compact&theme=blueberry"/>
 </p>
-
-### 🐍 Minha contribuição
-  
-![Snake animation](https://raw.githubusercontent.com/RoniJrr/RoniJrr/main/.github/snake/snake.svg)
-
-
-
-
-
----
+___________
 
 ## 📫 Conecte-se comigo
 <p align="center">
