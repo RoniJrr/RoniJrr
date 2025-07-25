@@ -11,6 +11,12 @@ Sou apaixonado por tecnologia e **entusiasta em análise de dados**, sempre em b
 
 ___________
 
+## 📚 Minha Jornada de Evolução
+Confira meus estudos, desafios e projetos em andamento:
+➡ [Clique aqui para acessar o repositório de evolução](https://github.com/RoniJrr/minha-evolucao-dev)
+
+___________
+
 ## 🚀 Tecnologias e Ferramentas
 <p align="center">
   <!-- Front-end -->
