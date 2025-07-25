@@ -48,9 +48,10 @@ Sou apaixonado por tecnologia e **entusiasta em análise de dados**, sempre em b
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniJrr&layout=compact&theme=blueberry"/>
 </p>
 
-
+### 🐍 Minha contribuição
   
-![Snake animation](https://raw.githubusercontent.com/RoniJrr/RoniJrr/main/.github/snake/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RoniJrr/RoniJrr/output/github-contribution-grid-snake.svg)
+
 
 
 
