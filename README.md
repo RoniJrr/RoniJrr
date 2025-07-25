@@ -49,7 +49,9 @@ Sou apaixonado por tecnologia e **entusiasta em análise de dados**, sempre em b
 </p>
 
 
-![Snake animation](https://github.com/RoniJrr/RoniJrr/blob/main/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/RoniJrr/RoniJrr/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
